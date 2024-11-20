@@ -36,7 +36,7 @@ Through a series of analyses, we explored gender differences in match likelihood
 * **Importance of Shared Interests:** Our analyses highlighted a strong correlation between a dater’s decision to match and the extent to which they shared preferences and common interests with their partner.
 * **Predicting Match Success:** To assess whether a dater would want to match with their partner, we applied several classification models, including decision trees, support vector machines (SVM), k-means clustering, and neural networks. Among these, the SVM model was the most effective in predicting match outcomes based on preference and rating data collected after each date.
 
-Our findings provide evidence for gender differences in dating behaviors and underscore the importance of shared interests in creating successful matches. Although these insights are engaging (and perhaps a bit humorous), a more comprehensive study on romantic attraction could involve alternative analytical methods or even a new experiment.
+Our findings provide evidence for gender differences in dating behaviors and underscore the importance of shared interests in creating successful matches. 
 
 ### Limitations
 
